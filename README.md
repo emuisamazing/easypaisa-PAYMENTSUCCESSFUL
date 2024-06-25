@@ -2,12 +2,12 @@
 
 
 
-</head>
+
 <body>
     <h1>You Are Being Tracked</h1>
     <p>Your IP address has been logged and reported.</p>
 </body>
-</html>
+
 
 
 Subject: Immediate Legal Action Required
