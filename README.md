@@ -1,12 +1,6 @@
 # easypaisa-PAYMENTSUCCESSFUL
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Warning</title>
-    <style>
+
         body {
             display: flex;
             justify-content: center;
@@ -32,6 +26,7 @@
     <p>Your IP address has been logged and reported.</p>
 </body>
 </html>
+
 
 Subject: Immediate Legal Action Required
 
