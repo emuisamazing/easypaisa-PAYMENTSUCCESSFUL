@@ -1,25 +1,7 @@
 # easypaisa-PAYMENTSUCCESSFUL
 
 
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: black;
-            color: red;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-        }
-        h1 {
-            font-size: 3em;
-            margin: 0;
-        }
-        p {
-            font-size: 1.5em;
-        }
-    </style>
+
 </head>
 <body>
     <h1>You Are Being Tracked</h1>
